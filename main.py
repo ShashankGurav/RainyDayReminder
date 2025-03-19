@@ -11,8 +11,8 @@ auth_token = "YOUR_TWILIO_AUTH_TOKEN"
 
 # Weather parameters (Replace with actual coordinates)
 weather_parameters = {
-    "lat": YOUR_LATITUDE,  # Example: 19.0760 for Mumbai
-    "lon": YOUR_LONGITUDE,  # Example: 72.8777 for Mumbai
+    "lat": YOUR_LATITUDE,
+    "lon": YOUR_LONGITUDE,
     "appid": api_key,
     "cnt": 4
 }
