@@ -42,8 +42,5 @@ python weather_alert.py
 - Add email notifications.
 - Web UI for configuration.
 
-## License & Contribution
-Open-source under the MIT License. Contributions welcome! 😊
 
-[GitHub Repo](https://github.com/YOUR_GITHUB_USERNAME/RainAlertBot)
 
